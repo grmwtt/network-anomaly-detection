@@ -21,6 +21,4 @@ An unsupervised machine learning system that detects network intrusions and cybe
 - [ ] Model evaluation and comparison
 
 ## Dataset
-NSL-KDD or CICIDS2017 network intrusion detection dataset
-
-More details coming soon as the project develops.
+BETH dataset: https://www.kaggle.com/datasets/katehighnam/beth-dataset
