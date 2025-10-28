@@ -1,6 +1,6 @@
 # Network Anomaly Detection System
 
-> Status: In Development
+> Status: In Development<br>
 > Currently Working On: Research/Planning
 
 ## Overview
