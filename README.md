@@ -1,7 +1,7 @@
 # Network Anomaly Detection System
 
 > Status: In Development<br>
-> Currently Working On: Research/Planning
+> Currently Working On: EDA
 
 ## Overview
 An unsupervised machine learning system that detects network intrusions and cyber attacks by learning normal traffic patterns and flagging anomalous behavior in real-time.
