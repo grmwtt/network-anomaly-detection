@@ -1,6 +1,7 @@
 # Network Anomaly Detection System
 
-> Status: In Development
+> Status: In Development<br>
+> Currently Working On: EDA
 
 ## Overview
 An unsupervised machine learning system that detects network intrusions and cyber attacks by learning normal traffic patterns and flagging anomalous behavior in real-time.
@@ -20,6 +21,4 @@ An unsupervised machine learning system that detects network intrusions and cybe
 - [ ] Model evaluation and comparison
 
 ## Dataset
-NSL-KDD or CICIDS2017 network intrusion detection dataset
-
-More details coming soon as the project develops.
+UNSW_NB15 dataset: https://research.unsw.edu.au/projects/unsw-nb15-dataset
