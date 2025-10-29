@@ -21,5 +21,4 @@ An unsupervised machine learning system that detects network intrusions and cybe
 - [ ] Model evaluation and comparison
 
 ## Dataset
-BETH dataset: https://www.kaggle.com/datasets/katehighnam/beth-dataset<br>
-http://www.gatsby.ucl.ac.uk/~balaji/udl2021/accepted-papers/UDL2021-paper-033.pdf
+UNSW_NB15 dataset: https://research.unsw.edu.au/projects/unsw-nb15-dataset
